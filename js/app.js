@@ -349,4 +349,5 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Ініціалізація - створюємо картки
     createCards('all');
+
 });
